@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🇨🇳 Chinese student studying in the UK
+- 🔭 London School of Economics and Political Science 25'
+- 🌱 Learning Politis and Data Science in year 1
+- 📫 How to reach me: s.he24@lse.ac.uk
+- ⚡ Fun fact: steam player / SKY player / Python beginner...
+
+
 <!--
 **huashengjiang-cloud/huashengjiang-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
